@@ -1,0 +1,50 @@
+.game{
+    text-align: center;
+    background-color: rgb(238, 211, 9);
+    border-radius: 5px;
+    margin-top: 100px;
+    
+
+}
+.one{
+    display: flex;
+    justify-content: center;
+   padding-bottom: 50px;
+
+}
+.ga{
+    text-align: center;
+}
+.two{
+    background-color: rgb(4, 241, 36);
+    margin-top: 50px;
+    font-size: 25px;
+    border-radius: 5px;
+    
+}
+.one1{
+    text-align: center;
+}
+body {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.dg{
+    font-size: 48px;
+    border-radius: 25px;
+    background-color: aliceblue;
+    
+}
+.three{
+    padding-right: 50px;
+}
+.piriyan{
+    font-size: 30px;
+    color: darkred;
+}
+body{
+    background-color: rgb(5, 5, 36)  ;
+}
